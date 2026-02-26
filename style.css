@@ -1,0 +1,21 @@
+body {background-color: blue;}
+h1{text-align: center;
+    color: gold;
+    border-style: dotted;
+    border-color: darkgreen;
+    border-radius: 12%;
+font-size: 400%;
+margin-left: 10%;
+margin-right: 10%;
+}
+h2 {color: aqua;
+text-align: center;
+}
+h3 {color: darkcyan;
+    text-align: center;
+}
+#ima1 {margin-left: 22%;
+border-color: blue;
+border-style: groove;
+border-width: 17px;
+}
